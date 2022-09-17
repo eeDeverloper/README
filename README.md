@@ -1,11 +1,11 @@
-<a href="https://ibb.co/Z2m0YmF"><img src="https://i.ibb.co/Z2m0YmF/standard.gif" alt="standard" border="0"></a>
+<h1 align="center" />⚡ WELCOME TO MY GITHUB ⚡</h1>
 
-- 🔭 I’m currently working on NodeJs
-- 🌱 I’m currently learning Backend
-- 💬 Ask me anything about Frontend
-- 📫 How to reach me: saviomartin2020@gmail.com
-- 😄 My website: https://savio.works/
-- ⚡ Fun fact: I'm comming to teen
+- 🔭 I am learning more about the FRONT END
+- 🌱 Today I'm learning React
+- 💬 Experience in FRONT END languages
+- 📫 Contact me: emilianoenrique.contact@gmail.com
+- 😄 My website: https://ee_deverloper.vercel.app/
+- ⚡ Responsible person inspired by what I do.
 
 <h1/>MY SKILLS</h1>
 
