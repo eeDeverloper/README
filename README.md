@@ -6,7 +6,7 @@
 - 💬 Experience in FRONT END languages
 - 📫 Contact me: emilianoenrique.contact@gmail.com
 - 😄 My website: https://ee_deverloper.vercel.app/
-- ⚡ Responsible person inspired by what I do.
+- ⚡ Deverloper Freelancer
 
 
 <h1/>MY SKILLS</h1>
