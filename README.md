@@ -1,4 +1,5 @@
-<h1 align="center" />⚡ WELCOME TO MY GITHUB ⚡</h1>
+<h1 align="center"/>⚡ WELCOME TO MY GITHUB ⚡</h1>
+
 
 - 🔭 I am learning more about the FRONT END
 - 🌱 Today I'm learning React
@@ -6,6 +7,7 @@
 - 📫 Contact me: emilianoenrique.contact@gmail.com
 - 😄 My website: https://ee_deverloper.vercel.app/
 - ⚡ Responsible person inspired by what I do.
+
 
 <h1/>MY SKILLS</h1>
 
@@ -19,8 +21,8 @@
 
 <h1/>SOCIAL</h1>
 
-<a href="https://www.instagram.com/teen_developer/"><img src="https://img.shields.io/badge/Linkendin%20-white?style=for-the-badge&logo=linkedin&logoColor=1a1a1a"/></a>
-<a href="https://www.instagram.com/teen_developer/"><img src="https://img.shields.io/badge/Twitter%20-white?style=for-the-badge&logo=twitter&logoColor=1a1a1a"/></a>
+<a href="https://www.linkedin.com/in/emiliano-enrique-28215424b/"><img src="https://img.shields.io/badge/Linkendin%20-white?style=for-the-badge&logo=linkedin&logoColor=1a1a1a"/></a>
+<a href="https://www.facebook.com/profile.php?id=100085294154830"><img src="https://img.shields.io/badge/Twitter%20-white?style=for-the-badge&logo=twitter&logoColor=1a1a1a"/></a>
 <a href="https://www.instagram.com/teen_developer/"><img src="https://img.shields.io/badge/Facebook%20-white?style=for-the-badge&logo=facebook&logoColor=1a1a1a"/></a>
 
 
