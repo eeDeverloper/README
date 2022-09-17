@@ -1,4 +1,4 @@
-<h1 align="center"/>`⚡ WELCOME TO MY GITHUB` ⚡</h1>
+<h1 align="center"/>⚡ WELCOME TO MY GITHUB⚡</h1>
 
 
 - 🔭 I am learning more about the FRONT END
